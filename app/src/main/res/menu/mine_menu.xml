@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:title="数据中心"
+        android:icon="@drawable/ic_data_48dp"
+        android:id="@+id/history"/>
+    <item
+        android:title="每周目标"
+        android:icon="@drawable/ic_event_note_black_48dp"
+        android:id="@+id/model_everyday"/>
+    <item
+        android:title="身体档案"
+        android:icon="@drawable/ic_assessment_black_48dp"
+        android:id="@+id/data_main"/>
+    <item
+        android:title="运动能力"
+        android:icon="@drawable/ic_assignment_black_48dp"
+        android:id="@+id/nengli_mine"/>
+    <item
+        android:title="链接设备"
+        android:icon="@drawable/ic_settings_bluetooth_black_48dp"
+        android:id="@+id/shebei_lianjie"/>
+    <item
+        android:title="运动日记"
+        android:icon="@drawable/ic_chrome_reader_mode_black_48dp"
+        android:id="@+id/yudong_riji"/>
+    <item
+        android:title="步数记录"
+        android:icon="@drawable/ic_directions_walk_black_48dp"
+        android:id="@+id/walk_jilu"/>
+    <item
+        android:title="我的收藏"
+        android:icon="@drawable/ic_loyalty_black_48dp"
+        android:id="@+id/shoucang"/>
+    <item
+        android:title="我的活动"
+        android:icon="@drawable/ic_description_black_48dp"
+        android:id="@+id/activity_mine"/>
+    <item
+        android:title="我的路线"
+        android:icon="@drawable/ic_satellite_black_48dp"
+        android:id="@+id/line_mine"/>
+
+
+
+</group>
+</menu>
+<!--第三个板块 我
+    分自我身体数据，每周目标，数据中心（统计运动历史），运动能力，链接设备，运动日记，步数记录，我的收藏（课程收藏），我的活动，我的路线这些板块
+-->
